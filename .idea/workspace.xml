@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d792f5d-ecb0-4912-87db-fdb6283ae287" name="Default Changelist" comment="" />
+    <list default="true" id="9d792f5d-ecb0-4912-87db-fdb6283ae287" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/NewPackage/Habu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NewPackage/Habu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7e3f4f40-ee11-43ec-a510-dc9aca42fd51" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,16 +53,40 @@
       <option name="presentableId" value="Default" />
       <updated>1722457035261</updated>
     </task>
+    <task id="LOCAL-00001" summary="check it out">
+      <created>1722458477572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722458477572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check it out" />
+    <option name="LAST_COMMIT_MESSAGE" value="check it out" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="#Project_Structure" timestamp="1722458091491">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="0" y="0" key="#Project_Structure/0.0.1440.852@0.0.1440.852" timestamp="1722458091491" />
+    <state x="61" y="0" key="CommitChangelistDialog2" timestamp="1722458476327">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="61" y="0" key="CommitChangelistDialog2/0.0.1440.852@0.0.1440.852" timestamp="1722458476327" />
     <state x="341" y="0" key="FileChooserDialogImpl" timestamp="1722458383140">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state x="341" y="0" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1722458383140" />
+    <state x="492" y="280" key="Github.Dialog.Accounts.Choose" timestamp="1722461450634">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="492" y="280" key="Github.Dialog.Accounts.Choose/0.0.1440.852@0.0.1440.852" timestamp="1722461450634" />
+    <state x="12" y="0" key="Vcs.Push.Dialog.v2" timestamp="1722461527521">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="12" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.852@0.0.1440.852" timestamp="1722461527521" />
   </component>
 </project>
